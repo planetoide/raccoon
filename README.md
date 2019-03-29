@@ -5,6 +5,8 @@ Clona este proyecto
 
 En el directorio del proyecto ejecuta
 >npm install
+
+inicia el proyecto
 >npm start
 
 en el navegador ingresa
