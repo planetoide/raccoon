@@ -4,7 +4,7 @@ Clona este proyecto
 >git clone [url]
 
 En el directorio del proyecto ejecuta
-
+>npm install
 >npm start
 
 en el navegador ingresa
